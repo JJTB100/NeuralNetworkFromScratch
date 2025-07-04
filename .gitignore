@@ -1,0 +1,17 @@
+ML EMnist JAVA/neural/src/main/resources/mnist_test.csv
+ML EMnist JAVA/neural/src/main/resources/emnist-digits-test.csv
+ML EMnist JAVA/neural/src/main/resources/emnist-digits-train.csv
+ML EMnist JAVA/neural/src/main/resources/mnist_train.csv
+ML EMnist JAVA/neural/target/classes/emnist-digits-test.csv
+ML EMnist JAVA/neural/target/classes/emnist-digits-train.csv
+ML EMnist JAVA/neural/target/classes/mnist_test.csv
+ML EMnist JAVA/neural/target/classes/mnist_train.csv
+ML Mnist/emnist-bymerge-train.csv
+ML Mnist/emnist-digits-test.csv
+ML Mnist/emnist-digits-train.csv
+ML Mnist/emnist-mnist-test.csv
+ML Mnist/emnist-mnist-train.csv
+ML Mnist/emnist_digits_all_weights.npz
+ML Mnist/emnist_mnist_all_weights.npz
+ML Mnist/mnist_test.csv
+ML Mnist/mnist_train.csv
