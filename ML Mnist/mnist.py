@@ -22,7 +22,7 @@
 #                    b2 -= learning_rate * db2   
 import numpy as np
 import pandas as pd
-from matplotlib import pyplot as plt
+from matplotlib import pyplot as plt 
 NUMBER_OF_CLASSES = 10
 HIDDEN_LAYER1_SIZE = 532
 HIDDEN_LAYER2_SIZE = 200
